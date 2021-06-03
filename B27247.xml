@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New copy of verses about interlopers since here has been a plaguy bustle, made by that quack-embalmer Russel ... : to the tune of Packington's pound.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27247</idno><idno type="EEBO-CITATION">24370871</idno>
+  <idno type="VID">205692</idno>
+  <idno type="EEBO-PROQUEST">2240870291</idno>
+  
+            <idno type="STC">Wing N600A</idno>
+            <idno type="OCLC">24370871</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1708:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New copy of verses about interlopers since here has been a plaguy bustle, made by that quack-embalmer Russel ... : to the tune of Packington's pound.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:205692:1"/>
+            <head>A New Copy of VERSES about INTERLOPERS.
+<q>
+                  <l>Since here has been a plaguy Bustle,</l>
+                  <l>Made by that Quack-Embalmer <hi>Russel,</hi>
+                  </l>
+                  <l>By <hi>Taylors, Cheesemongers,</hi> and <hi>Joyners,</hi>
+                  </l>
+                  <l>(Who Sham, and are base Ʋnderminers:)</l>
+                  <l>It is thought fit by some of th' City,</l>
+                  <l>To show their Rogu'ry in this Ditty.</l>
+               </q>
+            </head>
+            <opener>
+               <hi>To the Tune of</hi> Packington<hi>'s</hi>-Poud.</opener>
+            <lg>
+               <l>MY Friends and good People all pray you draw near,</l>
+               <l>from City, from Court, from Country and Town,</l>
+               <l>Here is a sad Story as e'er you did hear,</l>
+               <l>most fit in the Annals of Rogues to set down,</l>
+               <l>Of a damn'd Monopolly,</l>
+               <l>Encourag'd by Folly.</l>
+               <l>In bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ying you<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Friends, (Oh, unrighteous, unholy!)</l>
+               <l>Whose Bodies are stript e're they're put in the Grave,</l>
+               <l>To Cloath and Adorn a base ignorant Knave.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Embalmers</hi> those Cooks, who for Worms dress a Feast,</l>
+               <l>pretend to perform <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t for very small Charge,</l>
+               <l>And 'tis true, for their Charges ind<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed are the least,</l>
+               <l>'tis your Money that makes their streight Fortunes so large</l>
+               <l>Ev'n the Vermin they cheat,</l>
+               <l>And like Canibals eat</l>
+               <l>On that of which they your dead Friends do defeat,</l>
+               <l>Whose Bodies are stript e'er they're put in the Grave,</l>
+               <l>To Cloath and Adorn a base ignorant Knave.</l>
+            </lg>
+            <lg>
+               <l>First, I'll tell you a Truth, (and you'l say 'tis a hard one)</l>
+               <l>which was done on the Body of <hi>W</hi>—Squire,</l>
+               <l>At Sir <hi>Petter Lilly</hi>'s▪ hard by <hi>Covent-Garden,</hi>
+               </l>
+               <l>and if <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ben't Truth, why then <hi>Fact</hi> is a Lyar;</l>
+               <l>In a Room with door fast</l>
+               <l>Comes <hi>Russel</hi> in hast,</l>
+               <l>And whips off the Shrowd, which the <hi>Corps</hi> should have grac'd,</l>
+               <l>And instead of Perfumes▪ and rich Spices he strew'd</l>
+               <l>The Coffin with Ashes made only of Wood.</l>
+            </lg>
+            <lg>
+               <l>But mark the just Fate that this <hi>Emprie</hi> attends,</l>
+               <l>when the 'Squire he up in his Coffin has Nail'd,</l>
+               <l>Some Gentlemen come, the Deceased's good Friends,</l>
+               <l>whose Kindness the Sacriledge plainly reveal'd,</l>
+               <l>They all do contend,</l>
+               <l>To see their dear Friend,</l>
+               <l>And his Soul with th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Kisses to Heaven Commend,</l>
+               <l>They saw him then Naked, and Cold as he lay.</l>
+               <l>And as he came hither, so going away.</l>
+            </lg>
+            <lg>
+               <l>The good Lady <hi>Treby,</hi> or <hi>Hudson</hi> I'm sure,</l>
+               <l>with Sir <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mas Orby,</hi> that Knight of Renown,</l>
+               <l>The same cursed Usage was fain to endure,</l>
+               <l>each Robb'd of their Sheet, the last Wedding-Gown.</l>
+               <l>In Pennance may <hi>R</hi>—</l>
+               <l>Those very Sheets wear,</l>
+               <l>On whom in full Church may all good People stare,</l>
+               <l>And for his just <hi>Epitaph</hi> let it be said,</l>
+               <l>
+                  <hi>Here lies the Wolfe</hi> RUSSEL <hi>who liv'd by the Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en-ever he dyes he will need no great Pomp,</l>
+               <l>no <hi>Black,</hi> like his Actions, to <hi>Blazon his Cause;</hi>
+               </l>
+               <l>To the Grave let him hurry e'en with his bare Rump,</l>
+               <l>for the Devil is greedy, and seldom wants Sawce.</l>
+               <l>What Monster is here?</l>
+               <l>(Cry's old <hi>Lucifer,</hi>
+               </l>
+               <l>A Joyner, a Millener, Glover, (O dear)</l>
+               <l>A Wax-Chandler too, and sham Painter of Arms,</l>
+               <l>All dish'd up in one! H'has abundance of Charms.</l>
+            </lg>
+            <lg>
+               <l>Yet (hold!) I another Blow must have at Parting,</l>
+               <l>when Broad-Cloath his Pulpit should decently grace,</l>
+               <l>There was nothing else found by Learn'd Dr. <hi>Martin,</hi>
+               </l>
+               <l>but some old rusty Tatters of woren-out Bayes:</l>
+               <l>But the Doctor too wise,</l>
+               <l>Saw through the Disguise,</l>
+               <l>And <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut this dark Matter did <hi>R</hi>— Catechize;</l>
+               <l>O <hi>Russel,</hi> thou Knave, (said he) learn better manners,</l>
+               <l>Or else I'll expose thee in thy own nasty Banners.</l>
+            </lg>
+            <lg>
+               <l>Did not honest <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. Penson</hi> your Roguries expose,</l>
+               <l>and were they not Truths as apparent as Light,</l>
+               <l>At <hi>Dog-Tavern he'd</hi> ne'er have <hi>been mauld with such Blows,</hi>
+               </l>
+               <l>the down right E<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ects of your <hi>Guilt</hi> and your <hi>Spight.</hi>
+               </l>
+               <l>But for your Transgression</l>
+               <l>You must answer at Session.</l>
+               <l>And take heed that at <hi>Tyburn</hi> you make not Confession,</l>
+               <l>For when once you have gotten of Sin such a habit,</l>
+               <l>You'l forsake it I fear the Devil a bit.</l>
+            </lg>
+            <lg>
+               <l>But now I am tyr'd, and my Friends too I think,</l>
+               <l>this filthy soul Matter 'tis time to give over,</l>
+               <l>For the more we do stir him, the more he will stink,</l>
+               <l>but be sure you ne'er pay for your Goods ten times over.</l>
+               <l>This Caution is good,</l>
+               <l>If well understood:</l>
+               <l>Then beware all in time, of this <hi>Viperous Brood;</hi>
+               </l>
+               <l>The worst of all Vermin both hero and below,</l>
+               <l>Who in Mischiefs unnatural those Creatures out-do.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
